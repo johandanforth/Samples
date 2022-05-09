@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PackageDownloadsExample": {
+      "commandName": "Project",
+      "commandLineArgs": "--package-id dapper --wide true"
+    }
+  }
+}
